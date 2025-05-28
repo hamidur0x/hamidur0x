@@ -1,7 +1,5 @@
 # 🙋‍♂️ Hey there, I’m **Hamidur Rahman**
 
-<br>
-
 ## 🛠️ What I’m Up To
 
 * 🔐 **Information Security** – pen-testing, reverse engineering & bug hunting
