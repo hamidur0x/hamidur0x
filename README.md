@@ -1,16 +1,47 @@
-## Hi there 👋
+# 🙋‍♂️ Hey there, I’m **Hamidur Rahman**
 
-<!--
-**hamidur0x/hamidur0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Secure Software Developer • Diploma Engineering Student • Cybersecurity & Cloud Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I’m Up To
+
+* 🔐 **Information Security** – pen-testing, reverse engineering & bug hunting
+* 📊 **Data Science** – turning data into insights and stories
+* 🔌 **IoT** – building *and* breaking connected devices
+* 🌐 **Web3 & Blockchain** – smart-contract security & decentralized apps
+
+## 🌟 Fun Facts
+
+* I unwind with manga & anime marathons.
+* Comics are my guilty pleasure.
+
+---
+
+## 📇 About Me
+
+* 👨‍💻 **Name:** Hamidur Rahman
+* 🛡️ **Goal:** Become a Software Engineer & Bug Hunter
+* 🏙️ **Location:** Munshiganj, Bangladesh
+* 🎓 **Education:** Diploma in Engineering at Munshigonj Polytechnic Institute
+* 🔍 **Focus:** Web security, penetration testing, secure coding
+* 🛠️ **Current Learning:** Cybersecurity, Web Development, IoT Systems
+* 🌐 **Interests:** Security research, cloud computing, software development
+
+## 🧭 Extra Interests
+
+* ✈️ Avid traveler — love exploring ideas through exploration
+* 🚀 Interested in startups & innovation
+* ✍️ I love writing poems
+
+---
+
+<div align="center">
+
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/hamidur0x)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hamidur0c/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)]([mailto:shrifat.working@gmail.com?subject=Hello%20ShahRiffy,%20From%20Github](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZqbVGNgMvqmsWsJFrKkSWzJFsxTSnFMDHrWVrcqghtHTFHcBCqfdKsPRmKsngzsqpCPsx))
+
+</div>
