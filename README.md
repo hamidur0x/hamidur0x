@@ -36,7 +36,7 @@
 <div align="center">
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/hamidur0x)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hamidur0c/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)]([mailto:shrifat.working@gmail.com?subject=Hello%20ShahRiffy,%20From%20Github](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZqbVGNgMvqmsWsJFrKkSWzJFsxTSnFMDHrWVrcqghtHTFHcBCqfdKsPRmKsngzsqpCPsx))
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hamidur0x/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)]((https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZqbVGNgMvqmsWsJFrKkSWzJFsxTSnFMDHrWVrcqghtHTFHcBCqfdKsPRmKsngzsqpCPsx))
 
 </div>
