@@ -1,5 +1,6 @@
 # 🙋‍♂️ Hey there, I’m **Hamidur Rahman**
 
+<br>
 
 ## 🛠️ What I’m Up To
 
@@ -37,6 +38,6 @@
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/hamidur0x)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hamidur0x/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)]((https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZqbVGNgMvqmsWsJFrKkSWzJFsxTSnFMDHrWVrcqghtHTFHcBCqfdKsPRmKsngzsqpCPsx))
+[![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZqbVGNgMvqmsWsJFrKkSWzJFsxTSnFMDHrWVrcqghtHTFHcBCqfdKsPRmKsngzsqpCPsx)
 
 </div>
