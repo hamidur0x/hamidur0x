@@ -1,10 +1,5 @@
 # 🙋‍♂️ Hey there, I’m **Hamidur Rahman**
 
-<p align="center">
-  Secure Software Developer • Diploma Engineering Student • Cybersecurity & Cloud Enthusiast
-</p>
-
----
 
 ## 🛠️ What I’m Up To
 
