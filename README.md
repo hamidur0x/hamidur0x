@@ -14,7 +14,7 @@
 * 👨‍💻 **Name:** Hamidur Rahman
 * 🛡️ **Goal:** Become a Software Engineer & Bug Hunter
 * 🎓 **Education:** Diploma in Engineering at Munshigonj Polytechnic Institute
-* 🔍 **Focus:** Web security, penetration testing, secure coding
+* 🔍 **Focus:** Web security, penetration testing
 * 🛠️ **Current Learning:** Cybersecurity, Web Development, IoT Systems
 * 🌐 **Interests:** Security research, cloud computing, software development
 
