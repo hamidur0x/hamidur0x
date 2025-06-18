@@ -81,7 +81,3 @@
 
 ---
 
-## ⭐ Badges
-
-<!-- Add your certs, platforms, or course badges here -->
-
