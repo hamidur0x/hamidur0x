@@ -35,10 +35,10 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/hamidur0x" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="35" /></a>
+  <a href="https://x.com/hamidur0x" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="35" /></a>
   <a href="https://linkedin.com/in/hamidur0x" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
-  <a href="mailto:hamidur0x@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
-  <a href="https://fb.com/hamidur0x" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" /></a>
+  <a href="mailto:hamidursohan10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
+  <a href="https://www.facebook.com/hamidur0x" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" /></a>
   <a href="https://instagram.com/hamidur0x" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" /></a>
   <a href="https://medium.com/@hamidur0x" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="35" /></a>
 </p>
