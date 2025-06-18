@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hamidur Rahman</h1>
-<h3 align="center">I'm a passionate learner in the field of Computer Science and Technology, currently pursuing my diploma. My primary interest lies in Cybersecurity, and I'm enthusiastic about open source.</h3>
-
-<img align="right" alt="Coding" width="270" src="https://octodex.github.com/images/privateinvestocat.jpg" />
 
 ---
 
 ## 🛠️ What I’m Up To
 
-- 🔐 **Information Security** – Pen-testing, reverse engineering & bug hunting  
-- 📊 **Data Science** – Turning data into insights and stories  
-- 🔌 **IoT** – Building *and* breaking connected devices  
-- 🌐 **Web3 & Blockchain** – Smart contract security & decentralized apps  
+- 🎨 **Frontend Development** – Building responsive web interfaces with HTML & CSS  
+- 🔐 **Cybersecurity** – Pen-testing, CTFs, and vulnerability hunting  
+- 🐍 **Python Projects** – Automation scripts, web tools, and security utilities  
+- 📡 **IoT & Hardware** – Building and testing smart systems  
+- 🌐 **Web3 Curious** – Learning smart contract security  
 
 ---
 
@@ -20,17 +18,17 @@
 - 🛡️ **Goal:** To become a Software Engineer & Bug Hunter  
 - 🎓 **Education:** Diploma in Engineering at Munshigonj Polytechnic Institute  
 - 🔍 **Focus Areas:** Web security, penetration testing  
-- 📚 **Currently Learning:** Cybersecurity, Web Development, IoT Systems  
+- 📚 **Currently Learning:** HTML, CSS, Python, Cybersecurity tools  
 - 🌐 **Interests:** Security research, cloud computing, software development  
 
 ---
 
 ## 🧠 Ask Me About
 
-- Hacking, cybersecurity basics, bug bounty
-- Setting up Linux for pentesting
-- Python scripting for automation
-- GitHub, open source, or just to say hi!
+- HTML/CSS tricks and layouts  
+- Writing Python scripts for automation  
+- Linux setup for pentesting  
+- Web security & ethical hacking basics  
 
 ---
 
@@ -50,9 +48,11 @@
 ## 💻 Languages and Tools
 
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>
 </p>
 
 ---
@@ -83,4 +83,5 @@
 
 ## ⭐ Badges
 
-<!-- Add TryHackMe, HackTheBox, or other platform badges here -->
+<!-- Add your certs, platforms, or course badges here -->
+
