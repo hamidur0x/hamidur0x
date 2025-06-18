@@ -23,15 +23,6 @@
 
 ---
 
-## 🧠 Ask Me About
-
-- HTML/CSS tricks and layouts  
-- Writing Python scripts for automation  
-- Linux setup for pentesting  
-- Web security & ethical hacking basics  
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
