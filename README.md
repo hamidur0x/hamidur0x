@@ -31,7 +31,8 @@
   <a href="mailto:hamidursohan10@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Gmail" /></a>
   <a href="https://www.facebook.com/hamidur0x" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="35" alt="Facebook" /></a>
   <a href="https://instagram.com/hamidur0x" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" alt="Instagram" /></a>
-  <a href="https://medium.com/@hamidur0x" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="35" alt="Medium" /></a>
+
+
 </p>
 
 ---
