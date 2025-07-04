@@ -26,12 +26,12 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://x.com/hamidur0x" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="35" /></a>
-  <a href="https://linkedin.com/in/hamidur0x" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
-  <a href="mailto:hamidursohan10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
-  <a href="https://www.facebook.com/hamidur0x" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" /></a>
-  <a href="https://instagram.com/hamidur0x" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" /></a>
-  <a href="https://medium.com/@hamidur0x" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="35" /></a>
+  <a href="https://x.com/hamidur0x" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/hamidur0x" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" /></a>
+  <a href="mailto:hamidursohan10@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Gmail" /></a>
+  <a href="https://www.facebook.com/hamidur0x" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="35" alt="Facebook" /></a>
+  <a href="https://instagram.com/hamidur0x" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" alt="Instagram" /></a>
+  <a href="https://medium.com/@hamidur0x" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="35" alt="Medium" /></a>
 </p>
 
 ---
@@ -51,15 +51,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidur0x&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidur0x&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamidur0x&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamidur0x&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidur0x" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidur0x&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -67,8 +67,5 @@
 ## 🔢 Visitor Count
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/hamidur0x/count.svg" />
+  <img src="https://profile-counter.glitch.me/hamidur0x/count.svg" alt="Visitor Counter" />
 </div>
-
----
-
